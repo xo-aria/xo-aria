@@ -1,12 +1,49 @@
-# Hi there, im Arias
+# Hi there, I'm XO Aria
 <img align="right" src="https://s6.uupload.ir/files/a_2281878fdcf82ee2866b8004f8e47ae9_s4dc.gif" width="36%" />
-My Name is Aria Fendereski I am a developer to 16 language developer I don't like to describe myself too much, but I can say that I can do anything and I can provide you from graphic work to artificial intelligence...<br>
-Among my interests , I can mention books of poetry, books of Masnavi, and anecdotes, which I love, and among my favorite colors I can mention green, purple, and pink, and my favorite games are FPS or shooters.<br>
-and in my free time, I write code and use code.<br>
-I Among the music that I like, I can say relaxation and classical genres like Nils Hahn
 
-# Socials:
-[![Discord](https://img.shields.io/badge/Discord%20MoDeW-%23926e40.svg?logo=discord&logoColor=black&style=for-the-badge)](https://discord.gg/qeFXMbGqt4) [![Instagram](https://img.shields.io/badge/Instagram%20MoDeW-%23926e40.svg?logo=Instagram&logoColor=black&style=for-the-badge)](https://instagram.com/modewbbx) [![YouTube](https://img.shields.io/badge/Youtube%20MoDeW-%23926e40.svg?logo=YouTube&logoColor=black&style=for-the-badge)](https://youtube.com/@MoDeW) [![Repositories](https://img.shields.io/badge/Repositories%20MoDeW-%23926e40.svg?logo=github&logoColor=black&style=for-the-badge)](https://github.com/rearia0?tab=repositories) 
+I'm **Aria Fendereski**, known as **XO Aria** — a developer fluent in 16+ programming languages.  
+I don’t like to describe myself too much, but I can say I can do anything: from **graphic design** to **artificial intelligence**.  
 
-# My Skills:
-![C](https://img.shields.io/badge/c-%23926e40.svg?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/c++-%23926e40.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%23926e40.svg?style=for-the-badge&logo=css3&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23926e40.svg?style=for-the-badge&logo=html5&logoColor=black) ![Java](https://img.shields.io/badge/java-%23926e40.svg?style=for-the-badge&logo=openjdk&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23926e40.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/lua-%23926e40.svg?style=for-the-badge&logo=lua&logoColor=black) ![Kotlin](https://img.shields.io/badge/kotlin-%23926e40.svg?style=for-the-badge&logo=kotlin&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23926e40.svg?style=for-the-badge&logo=php&logoColor=black) ![Python](https://img.shields.io/badge/python-926e40?style=for-the-badge&logo=python&logoColor=black) ![R](https://img.shields.io/badge/r-%23926e40.svg?style=for-the-badge&logo=r&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%23926e40.svg?style=for-the-badge&logo=windows-terminal&logoColor=black) ![GithubPages](https://img.shields.io/badge/github%20pages-926e40?style=for-the-badge&logo=github&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23926e40.svg?style=for-the-badge&logo=bootstrap&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%23926e40.svg?style=for-the-badge&logo=jquery&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23926e40.svg?style=for-the-badge&logo=npm&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-926e40?style=for-the-badge&logo=node.js&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23926e40.svg?style=for-the-badge&logo=apache&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%23926e40.svg?style=for-the-badge&logo=mysql&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%23926e40.svg?style=for-the-badge&logo=sqlite&logoColor=black) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23926e40.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23926e40.svg?style=for-the-badge&logo=scikit-learn&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23926e40.svg?style=for-the-badge&logo=TensorFlow&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23926e40.svg?style=for-the-badge&logo=numpy&logoColor=black)
+💡 My passions include:  
+- Poetry & Masnavi literature 📖  
+- FPS/Shooter games 🎮  
+- Relaxing & classical music (like *Nils Hahn*) 🎶  
+
+And in my free time? I write code... and use code. ⚡
+
+---
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord%20XO--Aria-black?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/qeFXMbGqt4)
+[![Instagram](https://img.shields.io/badge/Instagram%20XO--Aria-black?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/xo_aria_dev)
+[![Telegram](https://img.shields.io/badge/Telegram%20XO--Aria-black?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/ghanon_dar)
+[![Repositories](https://img.shields.io/badge/Repositories%20XO--Aria-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/xo-aria?tab=repositories)
+
+---
+
+## 🛠 My Skills
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white) 
+![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react&logoColor=white) 
+![Artificial Intelligence](https://img.shields.io/badge/AI-black?style=for-the-badge&logo=openai&logoColor=white) 
+![Hacking & Security](https://img.shields.io/badge/Security-black?style=for-the-badge&logo=probot&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-black?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+---
+✨ *Always building. Always creating.* ✨
