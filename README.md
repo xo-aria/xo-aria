@@ -1,5 +1,5 @@
 # Hi there, I'm XO Aria
-<img align="right" src="https://s6.uupload.ir/files/a_2281878fdcf82ee2866b8004f8e47ae9_s4dc.gif" width="36%" />
+<img align="right" src="https://raw.githubusercontent.com/xo-aria/xo-aria/refs/heads/main/f9496e34-f7ac-4f89-b31e-d7fb6b728c97.jpg" width="20%" />
 
 I'm **Aria Fendereski**, known as **XO Aria** — a developer fluent in 16+ programming languages.  
 I don’t like to describe myself too much, but I can say I can do anything: from **graphic design** to **artificial intelligence**.  
